@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/Hezko/MineBlown-GameUI/issues"
   },
-  "homepage": "https://github.com/Hezko/MineBlown-GameUI#readme"
+  "homepage": "https://github.com/Hezko/MineBlown-GameUI#readme",
+  "dependencies": {
+    "mousetrap": "^1.6.1",
+    "react": "^16.0.0"
+  }
 }
