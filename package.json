@@ -1,0 +1,25 @@
+{
+  "name": "mineblown-gameui",
+  "version": "1.0.0",
+  "description": "Minesweeper game UI implementation in react easy for use from http://minesweeper.mineblown.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hezko/MineBlown-GameUI.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "ui",
+    "react",
+    "javascript"
+  ],
+  "author": "Tomer Haskalovitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hezko/MineBlown-GameUI/issues"
+  },
+  "homepage": "https://github.com/Hezko/MineBlown-GameUI#readme"
+}
