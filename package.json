@@ -4,7 +4,8 @@
   "description": "Minesweeper game UI implementation in react easy for use from http://minesweeper.mineblown.com",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel lib --presets babel-preset-es2015 --out-dir dist"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,9 @@
   "dependencies": {
     "mousetrap": "^1.6.1",
     "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
   }
 }
