@@ -1,6 +1,6 @@
 {
   "name": "mineblown-gameui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minesweeper game UI implementation in react easy for use from http://minesweeper.mineblown.com",
   "main": "index.js",
   "scripts": {
