@@ -2,7 +2,7 @@
   "name": "mineblown-gameui",
   "version": "1.0.4",
   "description": "Minesweeper game UI implementation in react easy for use from http://minesweeper.mineblown.com",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel lib --presets babel-preset-es2015 --plugins transform-react-jsx --out-dir dist"
