@@ -1,0 +1,17 @@
+.title-p{
+    margin: 0;
+}
+
+.home-element       {
+    display: inline-block;
+    vertical-align:top;
+}
+
+.home-settings{
+    width: 10%;
+}
+
+.home-social-bar{
+    float:right;
+    padding: 3%;
+}

@@ -1,0 +1,19 @@
+.custom-game-settings-table{
+    border : 1px solid black;
+    border-radius: 5px;
+    padding : 5px;
+}
+
+.game-setting{
+    padding: 5px;
+}
+
+.custom-setting-checkbox{
+    border-radius:5px;
+    background-color : rgb(222,222,222);
+}
+
+.game-settings-submit-button{
+    border-radius:5px;
+    background-color: rgb(123,123,123);
+}

@@ -1,0 +1,30 @@
+.sidebar{
+    padding:5px;
+    display: inline-block;
+    background: rgb(189,189,189)
+}
+
+.sidebar-element{
+    display: block;
+    width: 100%;
+    padding:5px;
+    background: rgb(189,189,189);
+}
+
+.sidebar-button{
+    text-decoration: none;
+    background: rgb(189,189,189);
+    color:black;
+}
+
+.sidebar-button-active{
+    text-decoration: none;
+    color:black;
+    background: rgb(189, 189, 189)
+}
+
+.sidebar-submit-button{
+    display: block;
+    width: 100%;
+    background-color: rgb(123,123,123);
+}
