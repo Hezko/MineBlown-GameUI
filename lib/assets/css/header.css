@@ -44,6 +44,11 @@
     display: inline-table;
 }
 
+.title-p{
+    text-decoration: none;
+    margin: 0;
+}
+
 .hide{
     display: none;
 }
