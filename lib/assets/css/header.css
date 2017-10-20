@@ -1,0 +1,49 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    padding:5px;
+    display: inline-block;
+    background: rgb(189,189,189)
+}
+
+.header-element{
+    display: inline-block;
+    padding: 5px;
+}
+
+.header-button{
+    text-decoration: none;
+    color:black;
+}
+
+.header-button-active{
+    text-decoration: none;
+    color:black;
+    background: rgb(189, 189, 189)
+}
+
+.no-border{
+    border: 2px solid rgb(189,189,189);
+}
+
+.header-wrapper{
+    display: inline-block;
+}
+
+.navbar-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-wrapper{
+    display: inline-table;
+}
+
+.hide{
+    display: none;
+}
